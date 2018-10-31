@@ -55,6 +55,28 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="graph_bars.xaml.cs">
+      <DependentUpon>graph_bars.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="graph_parallel.xaml.cs">
+      <DependentUpon>graph_parallel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="graph_single.xaml.cs">
+      <DependentUpon>graph_single.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="simpson.cs" />
+    <Page Include="graph_bars.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="graph_parallel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="graph_single.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
