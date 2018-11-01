@@ -4,3 +4,5 @@ C:\Users\1\Documents\Visual Studio 2015\Repositories\Simpson_Integral_Oxyplot\Si
 C:\Users\1\Documents\Visual Studio 2015\Repositories\Simpson_Integral_Oxyplot\Simpson_Integral_Oxyplot\Simpson_Integral_Oxyplot\obj\Debug\App.g.cs
 C:\Users\1\Documents\Visual Studio 2015\Repositories\Simpson_Integral_Oxyplot\Simpson_Integral_Oxyplot\Simpson_Integral_Oxyplot\obj\Debug\Simpson_Integral_Oxyplot_MarkupCompile.cache
 C:\Users\1\Documents\Visual Studio 2015\Repositories\Simpson_Integral_Oxyplot\Simpson_Integral_Oxyplot\Simpson_Integral_Oxyplot\obj\Debug\Simpson_Integral_Oxyplot_MarkupCompile.lref
+C:\Users\1\Documents\Visual Studio 2015\Repositories\Simpson_Integral_Oxyplot\Simpson_Integral_Oxyplot\Simpson_Integral_Oxyplot\obj\Debug\Simpson_Integral_Oxyplot.exe
+C:\Users\1\Documents\Visual Studio 2015\Repositories\Simpson_Integral_Oxyplot\Simpson_Integral_Oxyplot\Simpson_Integral_Oxyplot\obj\Debug\Simpson_Integral_Oxyplot.pdb
