@@ -49,7 +49,7 @@ namespace Simpson_Integral_Oxyplot {
             }
             if (_check.IsChecked.Value == false) {
                 timer.Start();
-                In = integral.calcPosl(n, a, b, x => x - Math.Log(2 * x) + 234);
+                In = integral.calcPosl(n, a, b, x => 2 * x - Math.Log(2 * x) + 234);
                 timer.Stop();
                 this._resultText.Text = Convert.ToString(In);
                 this._timeText.Text = Convert.ToString(timer.ElapsedMilliseconds);
