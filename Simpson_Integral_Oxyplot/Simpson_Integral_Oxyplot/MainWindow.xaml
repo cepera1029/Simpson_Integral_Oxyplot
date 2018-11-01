@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Simpson_Integral_Oxyplot"
         mc:Ignorable="d"
         xmlns:oxy="http://oxyplot.org/wpf"
-        Title="Расчет интеграла" Height="300" Width="418" ResizeMode="NoResize">
+        Title="Расчет интеграла" Height="342" Width="418" ResizeMode="NoResize">
 
     <Border Padding="10">
         <StackPanel>

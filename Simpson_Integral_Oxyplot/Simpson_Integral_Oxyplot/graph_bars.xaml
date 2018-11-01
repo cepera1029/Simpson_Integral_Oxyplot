@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Simpson_Integral_Oxyplot"
          mc:Ignorable="d"
         xmlns:oxy="http://oxyplot.org/wpf"
-         Title="Bars" Height="300" Width="800">
+         Title="Столбцы" Height="500" Width="800">
     <Window.DataContext>
         <local:MainViewModel/>
     </Window.DataContext>
